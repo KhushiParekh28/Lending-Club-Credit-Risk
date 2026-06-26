@@ -18,3 +18,12 @@ An end-to-end  project optimizing credit risk underwriting for a P2P lending sta
 Due to GitHub's file storage limitations, the raw 1.5 GB dataset (`loan.csv`) is not hosted in this repository. 
 * The open-source corpus can be acquired via **Kaggle's Lending Club Loan Data**.
 * Run `optimized_data_pipeline.ipynb` to generate the compressed analytical assets locally.
+
+  ## 📊 Executive Control Center
+
+<a href="P* https://prod-in-a.online.tableau.com/#/site/parekhkhushi013-7df3cd8891/workbooks/1167993?:origin=card_share_link" target="_blank">
+  <img src="dashboard_preview.png" alt="Tableau Dashboard Preview" width="100%">
+</a>
+* Click the image above to open the live, interactive dashboard on Tableau Public.*
+
+
