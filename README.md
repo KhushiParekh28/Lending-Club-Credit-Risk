@@ -22,8 +22,8 @@ Due to GitHub's file storage limitations, the raw 1.5 GB dataset (`loan.csv`) is
   ## Executive Control Center
 
 <a href="https://prod-in-a.online.tableau.com/t/parekhkhushi013-7df3cd8891/views/Peer-to-PeerFintechCreditRisk/Riskandgradeanalysis?:origin=card_share_link&:embed=n" target="_blank">
-  <img src="dashboard_preview.png" alt="Tableau Dashboard Preview" width="100%">
-</a>
+
+
 * Click the image above to open the live, interactive dashboard on Tableau Public.*
 
 
